@@ -1,2 +1,2 @@
 # vlf-converter
-VLF converter to 10MHz
+VLF converter to 10MHz, these are the first steps...
